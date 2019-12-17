@@ -21,7 +21,7 @@ class School
     
   end
   def sort
-    @sort = sort
+    
     binding.pry
    
    end
